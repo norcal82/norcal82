@@ -8,7 +8,7 @@
 
 I'm Clint - I'm a Senior Software Engineer and electronics hobbyist living in Chico,CA.
 
-<img align="right" width="316" src="http://192.241.212.91:7000/globe?city=corpus%20christi&state=tx&format=imagery"></img>
+<img align="right"  width="auto" src="https://bettiga.dev/flat?city=chico&state=ca&format=plain"></img>
 
 [![norcal82's github stats](https://github-readme-stats.vercel.app/api?username=norcal82&count_private=true&show_icons=true&theme=vue)](https://github.com/norcal82/github-readme-stats) 
 
