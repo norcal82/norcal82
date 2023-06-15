@@ -1,6 +1,6 @@
 # Hello :v: 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,arduino,nodejs,ruby,rails,js,html,css,sass)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,nodejs,js,python,html,css,sass,arduino,linux)](https://skillicons.dev)  
 
 I'm Clint - I'm a Senior Software Engineer and electronics hobbyist living in Chico,CA.
 
